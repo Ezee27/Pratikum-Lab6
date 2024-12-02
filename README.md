@@ -4,7 +4,7 @@ Kelas: TI.24.A4
 
 NIM: 312410332
 
-Matkul: Bahasa Pemrograman
+Mata Kuliah: Bahasa Pemrograman
 
 # Latihan 1
 
