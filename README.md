@@ -26,7 +26,7 @@ print("lambda d('hello andre'):", d("andre"))
 ```
 Code Program Tersebut:
 
-![code2](https://github.com/user-attachments/assets/6c2c7fc0-57ba-4d31-ac1c-dd9e1e07a3bf)
+![code4](https://github.com/user-attachments/assets/62487b99-9daa-4c83-a280-2d260302c293)
 
 Hasil Program Tersebut:
 
